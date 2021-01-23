@@ -5,23 +5,23 @@ A simple roadmap to constructing your own hardware controller for use with LED a
 
 Parts Required: 
 
-5v LED Strip 16ft 
-Power Supply
-Enclosure
-Arduino Nano Clone
-PCB
-PCB Standoffs
-Resistors
-Capacitors 
-Toggle Switch
-Knobs
-Potentiometer
-4 Pin Waterproof Connector
-LED Power Wire
-WireKit
-Arcade Buttons
-Barrel Connector 
-Rubber Grommet Kit
+5v LED Strip 16ft /
+Power Supply / 
+Enclosure / 
+Arduino Nano Clone / 
+PCB / 
+PCB Standoffs / 
+Resistors / 
+Capacitors / 
+Toggle Switch / 
+Knobs / 
+Potentiometer / 
+4 Pin Waterproof Connector / 
+LED Power Wire / 
+WireKit / 
+Arcade Buttons / 
+Barrel Connector / 
+Rubber Grommet Kit / 
 
 
 Arduino Sketch Will require configuration based on your pin configuration. 
