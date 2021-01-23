@@ -27,15 +27,10 @@ Rubber Grommet Kit /
 Arduino Sketch Will require configuration based on your pin configuration. 
 
 Current Sketch Includes: 
-8 Pre Programed Modes
-Hue/Saturation/Brightness or Effect Adjustment Knobs 
+8 Pre Programed Modes//
+Hue/Saturation/Brightness or Effect Adjustment Knobs //
 2 LED Outputs - Can run 1-16ft strip or 2-8ft strips 
 
-
-Arduino Nano 
-1 Arcade Style Toggle Button 
-4 Potentiometers  
-5v6a Power Supply
 
 
 Most importantly: This guide/project was created from open source code / tutorial based learning during quarrantine. 
