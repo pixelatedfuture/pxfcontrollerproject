@@ -1,6 +1,9 @@
 # pxfcontrollerproject
 A hardware controller project for LED strips
 
+https://player.vimeo.com/video/504142414
+
+
 A simple roadmap for a DIY hardware controller for use with LED applications. - See PDF for assembly guide & Full Parts list w/ Links. 
 
 Parts Required: 
