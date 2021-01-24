@@ -2,26 +2,7 @@
 A hardware controller project for LED strips
 
 
- <html>
-  <head></head>
-	<body>
-		<!-- NOTE: ?api=1 and player_id at the end of the URL -->
-			<iframe id="player" width="" height="" src="https://vimeo.com/504142414" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
-			<script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
-
-			<script>	
-				var player = $f(document.getElementById('player'));
-				player.addEvent('ready', function() { 
-				player.api('play');
-				});
-			</script>
-	</body>
-</html>
-
-
-
-
+https://vimeo.com/504142414
 
 
 A simple roadmap for a DIY hardware controller for use with LED applications. - See PDF for assembly guide & Full Parts list w/ Links. 
